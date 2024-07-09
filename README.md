@@ -2,7 +2,7 @@
 
 ### Overview
 
-**Typing Bot** is a Python project designed to automate the typing experience on the Monkeytype platform.
+**Typing Bot** is a Python project designed to automate the typing experience on Monkeytype.com.
 
 ### Technologies used
 
