@@ -1,9 +1,13 @@
 # Typing Bot
 
-```
-Selenium WebDriver
-Python
-```
+### Overview
+
+**Typing Bot** is a Python project designed to automate the typing experience on the Monkeytype platform.
+
+### Technologies used
+
+- Selenium WebDriver
+- Python
 
 ### Run locally
 
